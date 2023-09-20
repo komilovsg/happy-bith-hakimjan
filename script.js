@@ -8,3 +8,4 @@ setTimeout(function() {
   // Отображаем контент
   document.getElementById("content").style.display = "block";
 }, 5000);
+
